@@ -9,14 +9,15 @@
         <entry key="'Ctrl+Alt+I'" value="1" />
         <entry key="'Ctrl+Alt+L'" value="3" />
         <entry key="'Ctrl+Alt+O'" value="1" />
-        <entry key="'Ctrl+Alt+S'" value="21" />
+        <entry key="'Ctrl+Alt+S'" value="22" />
         <entry key="'Ctrl+Alt+Shift+A'" value="1" />
         <entry key="'Ctrl+Alt+Shift+R'" value="1" />
         <entry key="'Ctrl+Alt+Shift+S'" value="6" />
         <entry key="'Ctrl+Alt+Shift+W'" value="6" />
-        <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="3" />
+        <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="5" />
         <entry key="'Ctrl+S'" value="1" />
-        <entry key="'Ctrl+Shift+F10'" value="1" />
+        <entry key="'Ctrl+Shift+F10'" value="2" />
+        <entry key="'Delete'" value="1" />
         <entry key="'Shift+F10'" value="4" />
       </map>
     </option>
