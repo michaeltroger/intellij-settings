@@ -17,8 +17,9 @@
         <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="6" />
         <entry key="'Ctrl+S'" value="1" />
         <entry key="'Ctrl+Shift+F10'" value="2" />
+        <entry key="'Ctrl+Z' or 'Alt+Backspace'" value="5" />
         <entry key="'Delete'" value="1" />
-        <entry key="'Shift+F10'" value="4" />
+        <entry key="'Shift+F10'" value="11" />
       </map>
     </option>
   </component>
