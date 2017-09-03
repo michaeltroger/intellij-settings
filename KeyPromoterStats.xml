@@ -7,7 +7,7 @@
         <entry key="'Alt+Insert'" value="6" />
         <entry key="'Alt+Shift+7'" value="1" />
         <entry key="'Alt+Shift+Insert'" value="1" />
-        <entry key="'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'" value="1" />
+        <entry key="'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'" value="2" />
         <entry key="'Ctrl+Alt+I'" value="2" />
         <entry key="'Ctrl+Alt+L'" value="4" />
         <entry key="'Ctrl+Alt+O'" value="1" />
@@ -23,7 +23,8 @@
         <entry key="'Ctrl+Shift+F10'" value="2" />
         <entry key="'Ctrl+Z' or 'Alt+Backspace'" value="5" />
         <entry key="'Delete'" value="2" />
-        <entry key="'Shift+F10'" value="51" />
+        <entry key="'Shift+F10'" value="52" />
+        <entry key="'Shift+F3' or 'Ctrl+Shift+L' or 'Up' or 'Shift+Enter'" value="1" />
         <entry key="'Shift+F6'" value="13" />
       </map>
     </option>
