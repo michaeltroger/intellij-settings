@@ -5,7 +5,7 @@
         <entry key="'Alt+1'" value="20" />
         <entry key="'Alt+4'" value="1" />
         <entry key="'Alt+5'" value="1" />
-        <entry key="'Alt+6'" value="27" />
+        <entry key="'Alt+6'" value="28" />
         <entry key="'Alt+7'" value="1" />
         <entry key="'Alt+Insert'" value="6" />
         <entry key="'Alt+Shift+7'" value="1" />
@@ -29,10 +29,10 @@
         <entry key="'Ctrl+Shift+F10'" value="24" />
         <entry key="'Ctrl+Z' or 'Alt+Backspace'" value="5" />
         <entry key="'Delete'" value="9" />
-        <entry key="'Shift+F10'" value="260" />
+        <entry key="'Shift+F10'" value="268" />
         <entry key="'Shift+F3' or 'Ctrl+Shift+L' or 'Up' or 'Shift+Enter'" value="1" />
         <entry key="'Shift+F6'" value="28" />
-        <entry key="'Shift+F9'" value="1" />
+        <entry key="'Shift+F9'" value="2" />
       </map>
     </option>
   </component>
