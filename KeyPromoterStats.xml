@@ -5,7 +5,7 @@
         <entry key="'Alt+1'" value="21" />
         <entry key="'Alt+4'" value="1" />
         <entry key="'Alt+5'" value="1" />
-        <entry key="'Alt+6'" value="31" />
+        <entry key="'Alt+6'" value="32" />
         <entry key="'Alt+7'" value="2" />
         <entry key="'Alt+Delete'" value="1" />
         <entry key="'Alt+Insert'" value="7" />
@@ -30,11 +30,11 @@
         <entry key="'Ctrl+Q' or 'Alt+Button2 Click'" value="2" />
         <entry key="'Ctrl+S'" value="1" />
         <entry key="'Ctrl+Shift+F10'" value="24" />
-        <entry key="'Ctrl+Z' or 'Alt+Backspace'" value="5" />
+        <entry key="'Ctrl+Z' or 'Alt+Backspace'" value="16" />
         <entry key="'Delete'" value="9" />
         <entry key="'F4'" value="2" />
         <entry key="'Insert'" value="2" />
-        <entry key="'Shift+F10'" value="304" />
+        <entry key="'Shift+F10'" value="314" />
         <entry key="'Shift+F3' or 'Ctrl+Shift+L' or 'Up' or 'Shift+Enter'" value="1" />
         <entry key="'Shift+F6'" value="32" />
         <entry key="'Shift+F9'" value="2" />
